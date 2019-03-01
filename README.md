@@ -1,4 +1,4 @@
 # Flaskapp
 Full stack nano degree project
-my name is anusha
-studying at nec
+my name is Anusha
+studying at NEC
